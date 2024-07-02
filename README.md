@@ -1,0 +1,1 @@
+This project consist of Rock-Paper-Scissor game which can be played between user and computer in browser console. It is thoroughly tested for all possible scenarios and passed. Any suggestions to this are most welcome.
